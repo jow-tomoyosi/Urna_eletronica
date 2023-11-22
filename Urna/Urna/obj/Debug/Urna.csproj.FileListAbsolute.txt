@@ -1,0 +1,10 @@
+C:\Users\Jolga\Documents\C#\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\Jolga\Documents\C#\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\Jolga\Documents\C#\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\Jolga\Documents\C#\Urna\Urna\obj\Debug\Urna.csproj.AssemblyReference.cache
+C:\Users\Jolga\Documents\C#\Urna\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\Jolga\Documents\C#\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\Jolga\Documents\C#\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\Jolga\Documents\C#\Urna\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+C:\Users\Jolga\Documents\C#\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\Jolga\Documents\C#\Urna\Urna\obj\Debug\Urna.pdb
